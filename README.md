@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ChandanaPrabhakar
-- 🤝 I’m looking for help on getting a new Software Engineer/Web Dev roles
-- 🌱 I’m currently learning MERN Stack Web Developement
-- 📫 Reach me on cp.devang@gmail.com
-- 💬 Ask me about web dev, software dev & trees 🌲
-- ⚡ Fun fact: I love to Dance 💃
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Full Stack Web Developement
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- ⚡ Fun fact: ...
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandana-prabhakar-7470b81b4/) 
 # 💻 Tech Stack:
