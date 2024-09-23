@@ -1,10 +1,73 @@
-- 👋 Hi, I’m @ChandanaPrabhakar
-- 🤝 I’m looking for help on getting a new Software Engineer/Web Dev roles
-- 🌱 I’m currently learning MERN Stack Web Developement
-- 📫 Reach me on cp.devang@gmail.com
-- 💬 Ask me about web dev, software dev & trees 🌲
-- ⚡ Fun fact: I love to Dance 💃
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandana-prabhakar-7470b81b4/) 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+<h1 align="left"> 👋 Hi, I’m Chandana Prabhakar </h1>
+<h3 align="left">Software Engineer | Backend-Developer | Javascript - enthusiast</h3>
+<div align="left"> 
+  <a href="mailto:cp.devang@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://www.linkedin.com/in/chandana-prabhakar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<div align="left">
+  
+  🤝 I’m looking for help on getting a new **Software Engineer/Web Dev roles**
+  
+  🔭 I’m currently working on **Fullstack Web Development Projects** 
+  
+  🌱 I’m currently learning more about **MERN Stack Web Developement**
+  
+  💬 Ask me about **Web Development**
+  
+  📧 Reach me out: cp.devang@gmail.com
+  
+  ⚡ Fun fact: I love to **Dance** 💃
+
+ </div>
+
+
+<h2 align="left">⚒️ Tech-Stack ⚒️</h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=java,javascript,expressjs,nodejs,react,jquery,mongodb,mysql,postgresql,html,css,firebase,postman,kubernetes,docker,terraform,figma,aws,github,vscode,azure" /><br>
+</div>
+
+<br/>
+
+<div align="left">
+    <h2 align="left">💻 Skills 💻</h2>
+        <h3>📕Technical: </h3>
+<div>
+  
+  **Programming Languages:** Java, JavaScript, TypeScript
+  
+  **Frameworks/Libraries:** ExpressJS, NodeJS, ReactJS, CSS
+  
+  **Databases Management:** MongoDB, MySQL, PostgreSQL
+  
+  **Design Tool:** Figma
+  
+  **Cloud Technologies:** AWS
+  
+  **Tools/Platforms:** GIT, Jupyter Notebook, VS Code, Microsoft Azure, Jira, Confluence
+  
+  **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+  
+  **Machine Learning:** Regression, Classification, Clustering
+  
+  **Operating Systems:** Linux
+  
+  **Office Tools:** Microsoft Office Suite
+  
+</div>
+        <h3>📗Soft Skills:</h3>
+        <div>
+          Project Management, Effective Communication, Leadership, Time Management
+        </div>
+
+ </div>
+
+<h2 align="left">📊 Github Stats 📊</h2>
+
+![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanaPrabhakar&show_icons=true&theme=radical&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaPrabhakar&show_icons=true&theme=radical)
+
