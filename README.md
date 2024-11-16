@@ -38,7 +38,7 @@
         <h3>📕Technical: </h3>
 <div>
   
-  **Programming Languages:** Java, JavaScript, TypeScript
+  **Programming Languages:** Java, JavaScript
   
   **Frameworks/Libraries:** ExpressJS, NodeJS, ReactJS, CSS, HTML
   
