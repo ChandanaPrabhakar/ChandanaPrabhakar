@@ -1,5 +1,5 @@
 <h1 align="left"> 👋 Hi, I’m Chandana Prabhakar </h1>
-<h3 align="left">Software Engineer | Backend-Developer | Javascript - enthusiast</h3>
+<h3 align="left">Software Development Engineer | Backend-Developer | JavaScript and Java - enthusiast</h3>
 <div align="left"> 
   <a href="mailto:cp.devang@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
@@ -17,7 +17,7 @@
   
   🌱 I’m currently learning more about **MERN Stack Web Developement**
   
-  💬 Ask me about **Web Development**
+  💬 Ask me about **Software Development**
   
   📧 Reach me out: cp.devang@gmail.com
   
@@ -39,7 +39,7 @@
         <h3>📕Technical: </h3>
 <div>
   
-  **Programming Languages:** Java, JavaScript
+  **Programming Languages:** Java, JavaScript, TypeScript
   
   **Frameworks/Libraries:** ExpressJS, NodeJS, ReactJS, CSS, HTML, Tailwind CSS
   
