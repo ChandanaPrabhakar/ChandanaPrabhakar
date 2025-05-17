@@ -28,7 +28,8 @@
 
 <h2 align="left">⚒️ Tech-Stack ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,javascript,expressjs,nodejs,react,jquery,html,css,mongodb,mysql,postgresql,aws,ansible,kubernetes,docker,terraform,jenkins,figma,firebase,postman,github,vscode,azure,grafana, prometheus" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,vite,html,css,tailwind,nodejs,express,mongodb,postgresql,mysql,aws,docker,kubernetes,jenkins,figma,firebase,postman,github,vscode" />
+<br />
 </div>
 
 <br/>
@@ -40,7 +41,7 @@
   
   **Programming Languages:** Java, JavaScript
   
-  **Frameworks/Libraries:** ExpressJS, NodeJS, ReactJS, CSS, HTML
+  **Frameworks/Libraries:** ExpressJS, NodeJS, ReactJS, CSS, HTML, Tailwind CSS
   
   **Databases Management:** MongoDB, MySQL, PostgreSQL
   
