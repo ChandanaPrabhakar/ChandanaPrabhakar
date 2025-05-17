@@ -6,6 +6,8 @@
   </a> 
   <a href="https://www.linkedin.com/in/chandana-prabhakar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://cdn.simpleicons.org/prometheus/white" alt="Prometheus" width="30" />
+    <img src="https://cdn.simpleicons.org/grafana/white" alt="Grafana" width="30" />
   </a>
 </div>
 
