@@ -6,8 +6,6 @@
   </a> 
   <a href="https://www.linkedin.com/in/chandana-prabhakar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    <img src="https://cdn.simpleicons.org/prometheus/white" alt="Prometheus" width="30" />
-    <img src="https://cdn.simpleicons.org/grafana/white" alt="Grafana" width="30" />
   </a>
 </div>
 
@@ -30,7 +28,9 @@
 
 <h2 align="left">⚒️ Tech-Stack ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,javascript,vite,html,css,tailwind,nodejs,express,mongodb,postgresql,mysql,aws,docker,kubernetes,jenkins,figma,firebase,postman,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,vite,html,css,tailwind,nodejs,express,mongodb,postgresql,mysql,aws,docker,kubernetes,jenkins,figma,firebase,postman,github,vscode" />
+  <img src="https://cdn.simpleicons.org/prometheus/white" alt="Prometheus" width="30" />
+  <img src="https://cdn.simpleicons.org/grafana/white" alt="Grafana" width="30" />
 <br />
 </div>
 
