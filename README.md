@@ -67,5 +67,5 @@
 <h2 align="left">📊 Github Stats 📊</h2>
 
 ![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanaPrabhakar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaPrabhakar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaPrabhakar&show_icons=true&locale=en&layout=compact)
 
