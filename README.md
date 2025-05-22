@@ -1,5 +1,5 @@
-<h1 align="left"> 👋 Hi, I’m Chandana Prabhakar </h1>
-<h3 align="left">Software Development Engineer | Backend-Developer | JavaScript and Java - enthusiast</h3>
+<h1 align="center"> 👋 Hi, I’m Chandana Prabhakar </h1>
+<h3 align="center">Software Development Engineer | Backend-Developer | JavaScript and Java - enthusiast</h3>
 <div align="left"> 
   <a href="mailto:cp.devang@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <div align="left">
   
