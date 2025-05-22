@@ -1,13 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m Chandana Prabhakar </h1>
 <h3 align="center">Software Development Engineer | Backend-Developer | JavaScript and Java - enthusiast</h3>
-<div align="left"> 
-  <a href="mailto:cp.devang@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a> 
-  <a href="https://www.linkedin.com/in/chandana-prabhakar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <div align="left">
@@ -25,6 +17,10 @@
   ⚡ Fun fact: I love to **Dance** 💃
 
  </div>
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chandana-prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shan-full-stack-developer" height="30" width="40" /></a>
+</p>
 
 
 <h2 align="left">⚒️ Tech-Stack ⚒️</h2>
